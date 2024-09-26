@@ -1,2 +1,2 @@
 # clon-mercado-libre
-Este es un clon de mercado libre con, contiene conexion a firebase auth para la validacion, ademas de consumo de apis de productos y el uso del controlador de estado GetX
+Proyecto movil desarrollador con Flutter, incluye librerias entre las mas destacadas esta GetX para el control de estados asi como MapBox, asegurando el comportamiento similar de la aplicacion movil de Mercado Libre
